@@ -23,6 +23,7 @@ Wireless earbuds in charging case on minimalist white marble surface, clean prod
 ```
 
 Output:
+![chee](lucid-origin_Wireless_earbuds_in_charging_case_on_minimalist_white_marble_surface_clean_produ-0.jpg)
 
 ## Step 3: Compare results between a vague prompt and a refined descriptive prompt.
 
