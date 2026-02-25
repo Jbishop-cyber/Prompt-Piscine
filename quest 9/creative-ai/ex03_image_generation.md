@@ -12,7 +12,7 @@ A product on a table
 
 Output:
 
-https://github.com/Jbishop-cyber/Prompt-Piscine/blob/main/quest%209/creative-ai/lucid-origin_A_sleek_modern_product_with_a_metallic_finish_and_rounded_edges_sits_centered_on-0.jpg
+![chee](lucid-origin_A_sleek_modern_product_with_a_metallic_finish_and_rounded_edges_sits_centered_on-0.jpg)
 
 ## Step 2: Refine the prompt by adding constraints such as art style, colors, or perspective.
 
