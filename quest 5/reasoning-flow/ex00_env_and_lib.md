@@ -24,9 +24,9 @@ Hello, World!
 ## Virtual Environment.
 
 ```py
-import jupyter
-import numpy
-import pandas
+import jupyter as jp (not a libary)
+import numpy as np
+import pandas as pd
 
 print("Hello, World!")
 ```
